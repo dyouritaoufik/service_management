@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:15:17:07 +0100] "GET /ServiceManagement HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:15:17:09 +0100] "GET /ServiceManagement/ HTTP/1.1" 200 2603 http-bio-8080-exec-2 1611
